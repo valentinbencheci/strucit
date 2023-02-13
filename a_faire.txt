@@ -1,0 +1,6 @@
+ACTIONS SEMANTIQUE:
+
+X Quand on utilise une variable / fonction / structure, on doit verifier qu'elle a ete deja declare
+- Quand on appele une fonction on doit verifier que les types des parametres sont les memes qu'a la declaration
+- On doit verifier le typage pour les operation
+X Avant d'ajouter dans le ts il faut verifier s'il n'existe pas deja

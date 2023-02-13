@@ -1,0 +1,11 @@
+Difficulte :
+    - L'execution ensemble de structefe et ANSI-C
+    - 
+
+Travaille fait par:
+    Valentin :
+        - L'execution ensemble de structefe et ANSI-C
+
+    Ahmed :
+        - Makefile
+        - Backend
